@@ -1,0 +1,6 @@
+invites/repositories/InviteRepository.class
+invites/controllers/InviteController.class
+invites/services/InviteService.class
+invites/config/SpringFoxConfig.class
+invites/InvitesBackEndApplication.class
+invites/entities/Invite.class
